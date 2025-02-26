@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"vim.useSystemClipboard": true,
+		"terminal.integrated.copyOnSelection": true
+	}
+}
